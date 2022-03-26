@@ -1,0 +1,9 @@
+.container{
+    max-width: 1240px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+body{
+    font-family: 'Old Standard TT', serif;
+    background-color: black;
+}
